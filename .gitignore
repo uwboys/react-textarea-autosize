@@ -1,5 +1,4 @@
 .DS_Store
 *.log
 example/bundle.js
-lib
 node_modules
